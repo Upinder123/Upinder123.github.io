@@ -1,0 +1,2 @@
+# guft
+static website
